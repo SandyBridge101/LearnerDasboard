@@ -2,7 +2,7 @@
 
 A comprehensive component of the CClient Admin Dashboard dedicated to managing learner accounts, tracking progress, and monitoring educational development.
 
-[Access Learners Section](https://learnadmindashboard.onrender.com/dashboard/learners):
+[Access Learners Section](https://learner-dasboard.vercel.app/): https://learner-dasboard.vercel.app/
 
 ## Overview
 
